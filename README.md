@@ -11,7 +11,7 @@ A machine learning model capable of predicting the likelihood of a customer resp
 
 A comprehensive report detailing:
 
-1. Data preprocessing steps
+ 1. Data preprocessing steps
 
  2 . Feature engineering techniques
 
