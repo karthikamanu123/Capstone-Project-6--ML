@@ -20,3 +20,11 @@ A comprehensive report detailing:
 4.Performance evaluation using appropriate metrics
 
 5.Key business insights derived from the model's predictions
+
+# Model Performance
+The final model achieved the following performance metrics:
+
+Accuracy: 94.89%
+Recall: 99.82%
+Precision: 90.88%
+F1-Score: 95.14%
