@@ -13,10 +13,10 @@ A comprehensive report detailing:
 
 1. Data preprocessing steps
 
-2 . Feature engineering techniques
+ 2 . Feature engineering techniques
 
-3 . Model selection and optimization
+ 3 . Model selection and optimization
 
-4 . Performance evaluation using appropriate metrics
+ 4 . Performance evaluation using appropriate metrics
 
-5.  Key business insights derived from the model's predictions
+ 5.  Key business insights derived from the model's predictions
