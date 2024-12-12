@@ -37,3 +37,7 @@ These metrics demonstrate the model's effectiveness in predicting customer inter
 # Conclusion
 
 This project successfully implemented a machine learning model to forecast customer propensity for vehicle insurance cross-sell offers. The model can optimize marketing efforts and elevate conversion rates.
+
+# Acknowledgments
+
+A big thank you to AlmaBetter for all the resources and support.
