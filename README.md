@@ -24,7 +24,10 @@ A comprehensive report detailing:
 # Model Performance
 The final model achieved the following performance metrics:
 
-Accuracy: 94.89%
-Recall: 99.82%
-Precision: 90.88%
-F1-Score: 95.14%
+1.Accuracy: 94.89%
+
+2.Recall: 99.82%
+
+3.Precision: 90.88%
+
+4.F1-Score: 95.14%
