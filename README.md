@@ -31,3 +31,9 @@ The final model achieved the following performance metrics:
 3.Precision: 90.88%
 
 4.F1-Score: 95.14%
+
+These metrics demonstrate the model's effectiveness in predicting customer interest and its readiness for deployment in a real-world setting.
+
+# Conclusion
+
+This project successfully implemented a machine learning model to forecast customer propensity for vehicle insurance cross-sell offers. The model can optimize marketing efforts and elevate conversion rates.
